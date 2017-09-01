@@ -1,0 +1,13 @@
+---
+buildName: "samplejs"
+links:
+  Git: "https://github.com/varundmishra/fabric8js.git"
+  Job: "http://100.71.249.80:80/job/samplejs"
+  Production: "http://100.68.96.198:80/kubernetes/pods?namespace=fra-3-prod"
+  Staging: "http://100.68.96.198:80/kubernetes/pods?namespace=fra-3-staging"
+  Testing: "http://100.68.96.198:80/kubernetes/pods?namespace=fra-3-testing"
+environments:
+  Testing: "fra-3-testing"
+  Staging: "fra-3-staging"
+  Production: "fra-3-prod"
+useLocalFlow: true

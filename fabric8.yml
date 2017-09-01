@@ -1,8 +1,8 @@
 ---
-buildName: "samplejs"
+buildName: "asdf"
 links:
   Git: "https://github.com/varundmishra/fabric8js.git"
-  Job: "http://100.71.249.80:80/job/samplejs"
+  Job: "http://100.71.249.80:80/job/asdf"
   Production: "http://100.68.96.198:80/kubernetes/pods?namespace=fra-3-prod"
   Staging: "http://100.68.96.198:80/kubernetes/pods?namespace=fra-3-staging"
   Testing: "http://100.68.96.198:80/kubernetes/pods?namespace=fra-3-testing"
